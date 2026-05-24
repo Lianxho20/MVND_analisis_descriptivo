@@ -10,7 +10,7 @@ from pathlib import Path
 import pandas as pd
 
 BASE = Path(__file__).parent
-CSV_LIMPIO = BASE / "mvnd_limpio.csv"
+CSV_LIMPIO = BASE / "datasets/mvnd_limpio.csv"
 OUT_DIR = BASE / "data" / "warehouse"
 MESES = {
     1: "Ene", 2: "Feb", 3: "Mar", 4: "Abr", 5: "May", 6: "Jun",
