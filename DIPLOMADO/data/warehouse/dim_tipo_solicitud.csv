@@ -1,0 +1,4 @@
+﻿id_tipo,tipo_solicitud,es_urgencia
+1,MAS DE UN PACIENTE,0
+2,PACIENTE ESPECIFICO,0
+3,URGENCIA CLINICA,1
